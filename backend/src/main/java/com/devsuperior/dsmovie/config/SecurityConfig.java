@@ -13,7 +13,7 @@ import org.springframework.security.config.http.SessionCreationPolicy;
 import org.springframework.web.cors.CorsConfiguration;
 import org.springframework.web.cors.CorsConfigurationSource;
 import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
-/* CTRL + SHIFT + O Importar de forma automatica*/
+/* CTRL + SHIFT + O Faz import de forma automatica*/
 
 @Configuration
 @EnableWebSecurity
